@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tinder-likeServer</string>
+    <string name="start_server">Start server</string>
+    <string name="users_online">Users online:</string>
+    <string name="distance">Enter the radius in meters</string>
+    <string-array name="radius">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+    <string name="game_title">You are being challenged</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    
+</resources>
